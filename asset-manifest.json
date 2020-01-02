@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e24d4a7.chunk.css",
+    "main.js": "/static/js/main.f69601a7.chunk.js",
+    "main.js.map": "/static/js/main.f69601a7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8eea71de.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8eea71de.js.map",
+    "static/js/2.2c5b5406.chunk.js": "/static/js/2.2c5b5406.chunk.js",
+    "static/js/2.2c5b5406.chunk.js.map": "/static/js/2.2c5b5406.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a77b2e1991487bffb748fa54b09449b3.js": "/precache-manifest.a77b2e1991487bffb748fa54b09449b3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3e24d4a7.chunk.css.map": "/static/css/main.3e24d4a7.chunk.css.map",
+    "static/media/Html.svg": "/static/media/Html.2fce3ed3.svg",
+    "static/media/Vaskaorder1.png": "/static/media/Vaskaorder1.7b70db29.png",
+    "static/media/js.svg": "/static/media/js.8db9cd68.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.d9049f46.svg",
+    "static/media/nannycutprofile.jpg": "/static/media/nannycutprofile.0772a8c4.jpg",
+    "static/media/net.svg": "/static/media/net.be2a454d.svg",
+    "static/media/paper-planer.svg": "/static/media/paper-planer.8b299091.svg",
+    "static/media/phone.svg": "/static/media/phone.996eb640.svg",
+    "static/media/playStore.jpg": "/static/media/playStore.a4c68832.jpg",
+    "static/media/style.scss": "/static/media/profilbild.7a56da88.jpg",
+    "static/media/react.svg": "/static/media/react.d8cf7740.svg",
+    "static/media/ts.png": "/static/media/ts.2cb1ed6b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8eea71de.js",
+    "static/js/2.2c5b5406.chunk.js",
+    "static/css/main.3e24d4a7.chunk.css",
+    "static/js/main.f69601a7.chunk.js"
+  ]
+}
